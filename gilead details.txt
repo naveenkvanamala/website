@@ -1,0 +1,27 @@
+
+
+
+Name 			:	Naveen kumar 
+lastname		:	Vanamala
+Date of birth 	:	April 30, 1990
+Email-id		:	vanamala88@gmail.com
+phone no 		:	408-809-6096
+last4 SSN		: 	8565
+us entry 		:	feb 2012
+B.Tech IT-JNTU	:	apr 2010
+
+
+
+
+
+Nike, Portland, OR												April 2015 to Present 			primevendor/
+Title: DevOps engineer.																		Reliable Software Resources  Northville, MI
+
+Verizon wireless, Alpharetta, GA						        Aug 2014 to March 2015
+Title: CM/Build Release Engineer. 
+
+Gen-Probe, San Diego, CA							        	Feb 2012 to July 2013
+Title: Build/Release Engineer.
+
+Celestial Biolabs Ltd, Hyderabad, India 						July 2010 to Nov 2011 
+Title: JAVA/Web Developer.
